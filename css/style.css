@@ -42,7 +42,7 @@ h1{
   font-size:34px;
   color:white;
   font-weight:400;
-  text-transform:uppercase;
+  /*text-transform:uppercase;*/
   letter-spacing:6px;
   line-height:1.2;
 }
@@ -148,7 +148,7 @@ h1 span{
   margin:100px auto;
   line-height:47px;
   border:1px solid white;
-  text-transform:uppercase;
+  /*text-transform:uppercase;*/
   color:white;
   display:block;
   cursor:pointer;
@@ -349,7 +349,7 @@ h1 span{
   margin-top:120px;
   letter-spacing:6px;
   font-weight:bold;
-  text-transform:uppercase;
+  /*text-transform:uppercase;*/
   line-height:1.2;
 
 }
@@ -365,7 +365,7 @@ h1 span{
 }
 
 .about-us p.title{
-  color: #a4a4a4;
+  color: #2F4F4F;
   margin:40px auto;
   width:300px;
   line-height:26px;
@@ -518,7 +518,7 @@ h1 span{
   margin:50px auto 100px;
   line-height:47px;
   border:1px solid #333333;
-  text-transform:uppercase;
+  /*text-transform:uppercase;*/
   text-align:center;
   color:#333333;
   cursor:pointer;
@@ -545,7 +545,7 @@ h1 span{
   margin-top:120px;
   letter-spacing:6px;
   font-weight:bold;
-  text-transform:uppercase;
+  /*text-transform:uppercase;*/
   line-height:1.2;
 }
 
@@ -738,7 +738,7 @@ h1 span{
   margin-top:120px;
   letter-spacing:6px;
   font-weight:bold;
-  text-transform:uppercase;
+  /*text-transform:uppercase;*/
   line-height:1.2;
 }
 
