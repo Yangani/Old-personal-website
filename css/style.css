@@ -365,7 +365,7 @@ h1 span{
 }
 
 .about-us p.title{
-  color: #2F4F4F;
+  color: #222;
   margin:40px auto;
   width:300px;
   line-height:26px;
@@ -392,7 +392,7 @@ h1 span{
   font-size:14px;
   width:250px;
   margin:30px auto;
-  color:#a4a4a4;
+  color: green;
   line-height:26px;
   letter-spacing:0;
   position:relative;
