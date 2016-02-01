@@ -98,13 +98,6 @@ h1 span{
   background-size: cover;
 }
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-  #footer { font-size:10px; }
-  #main { background-position: 0; }
-  #id{ margin-top:90px; }
-  #main .row { margin-top:100px; }
-}
-
 .start-page hr{
   color: white;
   margin-top:30px;
@@ -143,10 +136,14 @@ h1 span{
 }
 
 .start-page .content .text .logo{
-  width:123px;
-  height:123px;
+  width:170px;
+  height:170px;
   margin:0 auto 50px;
   
+}
+
+.image-festus {
+  border-radius: 100%;
 }
 
 
